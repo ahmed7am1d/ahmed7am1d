@@ -1,4 +1,3 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)](https://al-doori.ml/)
 <h1 align="center">Hi 👋, It's Ahmed</h1>
 <h3 align="center">A Full stack web developer</h3>
 <img align="right" alt="Coding" width="300" src="https://scontent.febl5-2.fna.fbcdn.net/v/t39.30808-6/262883343_743681627026575_2615310581595321543_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ag2pj1dbr44AX8ZtWjN&_nc_ht=scontent.febl5-2.fna&oh=00_AfC3U7nPAesrMBPkITkzkjGQmA1xTJolVxnNZxd3go9qxQ&oe=63D9C6BB"/>
