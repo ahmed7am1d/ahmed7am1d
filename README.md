@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed7am1d&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed7am1d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed7am1d" alt="ahmed7am1d" /></a> </p>
+
 
 - 🌱 I’m currently learning **Blockchain technology and Flutter, NextJS**
 
