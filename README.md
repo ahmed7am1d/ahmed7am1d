@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain technology and Flutter, NextJS**
 
-- 💬 Ask me about **ReactJS, C#, MS SQL Server, CSS, .NET MVC, .NET Core Web API**
+- 💬 Ask me about **ReactJS, C#, MS SQL Server, CSS, .NET MVC, .NET Core Web API, Tailwind CSS, and Web design**
 
 - 📫 You can reach me here => **ahmadhamidty@gmail.com**
 
