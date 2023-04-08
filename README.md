@@ -5,10 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed7am1d&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed7am1d" /> </p>
 
 
-
-- 🌱 I’m currently learning **Blockchain technology and Flutter, NextJS**
-
-- 💬 Ask me about **ReactJS, C#, MS SQL Server, CSS, .NET MVC, .NET Core Web API, Tailwind CSS, and Web design**
+- 💬 Ask me about **ReactJS, C#, MS SQL Server, CSS, .NET MVC, .NET Core Web API, Solidity, EthereJS, Web3.0, Tailwind CSS, and Web design**
 
 - 📫 You can reach me here => **ahmadhamidty@gmail.com**
 
