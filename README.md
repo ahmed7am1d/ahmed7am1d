@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, It's Ahmed</h1>
-<h3 align="center">A Software engineer specialized in .NET for back-end and VueJS/NextJS for front-end. </h3>
+<h3 align="center">Full Stack Developer | .NET | Nuxt.js | Security Enthusiast </h3>
